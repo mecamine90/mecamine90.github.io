@@ -5,7 +5,25 @@
     ],
   "landscape":[
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf1.webp",
-
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf2.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf3.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf4.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf5.webp",
+     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf6.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf7.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf8.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf9.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf10.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf11.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf12.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf13.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf14.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf15.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/lf16.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf17.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf18.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf19.webp",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf20.webp"
     ]
 }
 © 2019 GitHub,
