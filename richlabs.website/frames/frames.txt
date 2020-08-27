@@ -1,29 +1,20 @@
 ﻿{
-  "portrait":[
-  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/portrait/frame1.png",
-
-    ],
-  "landscape":[
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf1.webp",
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf2.webp",
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf3.webp",
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf4.webp",
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf5.webp",
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf6.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf7.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf8.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf9.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf10.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf11.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf12.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf13.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf14.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf15.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/lf16.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf17.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf18.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf19.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf20.webp"
-    ]
+  "portrait": [
+		  "https://richlabs.website/image/frame_00001.png",
+		  "https://richlabs.website/image/frame_00002.png",
+		  "https://richlabs.website/image/frame_00003.png",
+		  "https://richlabs.website/image/frame_00004.png",
+		  "https://richlabs.website/image/frame_00005.png",
+		  "https://richlabs.website/image/frame_00029.png"
+    
+  ],
+  "landscape": [
+    "https://richlabs.website/image/f1.png",
+"https://richlabs.website/image/f2.png",
+"https://richlabs.website/image/f3.png",
+"https://richlabs.website/image/f4.png",
+"https://richlabs.website/image/f5.png",
+"https://richlabs.website/image/f29.png"
+  ]
 }
 © 2019 GitHub,
