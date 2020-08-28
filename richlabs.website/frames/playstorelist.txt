@@ -2,9 +2,9 @@
 {
   "apps": [
     {
-      "appname": "Christmas Photo Frames Editor",
-      "appicon": "https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/christamas_photo_frames.webp",
-      "appurl": "appurl":"https://play.google.com/store/apps/details?id=com.app.christamasphotoframes&hl=en"
+      "appname": "",
+      "appicon": "",
+      "appurl": ""
     }
   ]
 }
