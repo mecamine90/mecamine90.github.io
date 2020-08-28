@@ -1,0 +1,10 @@
+
+{
+  "apps": [
+    {
+      "appname": "",
+      "appicon": "",
+      "appurl": ""
+    }
+  ]
+}
