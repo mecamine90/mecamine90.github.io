@@ -1,5 +1,5 @@
 ﻿{
-  "portraittt":[
+  "portrait":[
 "http://funnypic.life/wp-content/uploads/p1.png",
 "http://funnypic.life/wp-content/uploads/p2.png",
 "http://funnypic.life/wp-content/uploads/p3.png",
