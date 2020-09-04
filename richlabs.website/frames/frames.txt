@@ -9,10 +9,10 @@
 "http://funnypic.life/wp-content/uploads/p7.png",
 "http://funnypic.life/wp-content/uploads/p8.png",
 "http://funnypic.life/wp-content/uploads/p9.png",
-"http://funnypic.life/wp-content/uploads/p10.png"
-"http://funnypic.life/wp-content/uploads/p11.png"
-"http://funnypic.life/wp-content/uploads/p12.png"
-"http://funnypic.life/wp-content/uploads/p13.png"
+"http://funnypic.life/wp-content/uploads/p10.png",
+"http://funnypic.life/wp-content/uploads/p11.png",
+"http://funnypic.life/wp-content/uploads/p12.png",
+"http://funnypic.life/wp-content/uploads/p13.png",
 "http://funnypic.life/wp-content/uploads/p14.png"
     ],
   "landscape":[
