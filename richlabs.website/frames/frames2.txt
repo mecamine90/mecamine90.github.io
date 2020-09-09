@@ -1,0 +1,20 @@
+{
+  "portrait":[
+"http://funnypic.life/wp-content/uploads/p1.png",
+"http://funnypic.life/wp-content/uploads/p2.png",
+"http://funnypic.life/wp-content/uploads/p3.png",
+"http://funnypic.life/wp-content/uploads/p4.png",
+"http://funnypic.life/wp-content/uploads/p5.png",
+"http://funnypic.life/wp-content/uploads/p12.png",
+"http://funnypic.life/wp-content/uploads/p13.png",
+"http://funnypic.life/wp-content/uploads/p14.png"
+    ],
+  "landscape":[
+"http://funnypic.life/wp-content/uploads/1.png",
+"http://funnypic.life/wp-content/uploads/2.png",
+
+"http://funnypic.life/wp-content/uploads/16.png",
+"http://funnypic.life/wp-content/uploads/17.png"
+    ]
+}
+© 2019 GitHub,
