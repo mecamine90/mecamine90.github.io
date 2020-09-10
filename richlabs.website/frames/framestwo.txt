@@ -4,10 +4,6 @@
 {
   "portrait":[
 "http://funnypic.life/wp-content/uploads/pfa1.png",
-"http://funnypic.life/wp-content/uploads/pfa1.png",
-"http://funnypic.life/wp-content/uploads/pfa1.png",
-"http://funnypic.life/wp-content/uploads/pfa1.png",
-"http://funnypic.life/wp-content/uploads/pfa1.png",
 "http://funnypic.life/wp-content/uploads/pfa2.png",
 "http://funnypic.life/wp-content/uploads/pfa3.png",
 "http://funnypic.life/wp-content/uploads/pfa4.png",
