@@ -2,24 +2,6 @@
 
 
 {
-   "landscape":[
-"http://funnypic.life/wp-content/uploads/lfa1.png",
-"http://funnypic.life/wp-content/uploads/lfa2.png",
-"http://funnypic.life/wp-content/uploads/lfa3.png",
-"http://funnypic.life/wp-content/uploads/lfa4.png",
-"http://funnypic.life/wp-content/uploads/lfa5.png",
-"http://funnypic.life/wp-content/uploads/lfa6.png",
-"http://funnypic.life/wp-content/uploads/lfa7.png",
-"http://funnypic.life/wp-content/uploads/lfa8.png",
-"http://funnypic.life/wp-content/uploads/lfa9.png",
-"http://funnypic.life/wp-content/uploads/lfa10.png",
-"http://funnypic.life/wp-content/uploads/lfa11.png",
-"http://funnypic.life/wp-content/uploads/lfa12.png",
-"http://funnypic.life/wp-content/uploads/lfa13.png",
-"http://funnypic.life/wp-content/uploads/lfa14.png",
-"http://funnypic.life/wp-content/uploads/lfa15.png",
-"http://funnypic.life/wp-content/uploads/lfa16.png"
-    ],
   "portrait":[
 "http://funnypic.life/wp-content/uploads/pfa1.png",
 "http://funnypic.life/wp-content/uploads/pfa2.png",
@@ -39,6 +21,24 @@
 "http://funnypic.life/wp-content/uploads/pfa16.png",
 "http://funnypic.life/wp-content/uploads/pfa17.png",
 "http://funnypic.life/wp-content/uploads/pfa18.png"
+    ],
+  "landscape":[
+"http://funnypic.life/wp-content/uploads/lfa1.png",
+"http://funnypic.life/wp-content/uploads/lfa2.png",
+"http://funnypic.life/wp-content/uploads/lfa3.png",
+"http://funnypic.life/wp-content/uploads/lfa4.png",
+"http://funnypic.life/wp-content/uploads/lfa5.png",
+"http://funnypic.life/wp-content/uploads/lfa6.png",
+"http://funnypic.life/wp-content/uploads/lfa7.png",
+"http://funnypic.life/wp-content/uploads/lfa8.png",
+"http://funnypic.life/wp-content/uploads/lfa9.png",
+"http://funnypic.life/wp-content/uploads/lfa10.png",
+"http://funnypic.life/wp-content/uploads/lfa11.png",
+"http://funnypic.life/wp-content/uploads/lfa12.png",
+"http://funnypic.life/wp-content/uploads/lfa13.png",
+"http://funnypic.life/wp-content/uploads/lfa14.png",
+"http://funnypic.life/wp-content/uploads/lfa15.png",
+"http://funnypic.life/wp-content/uploads/lfa16.png"
     ]
 }
 © 2019 GitHub,
