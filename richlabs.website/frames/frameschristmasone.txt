@@ -21,7 +21,7 @@
 "http://funnypic.life/wp-content/uploads/chp16.png",
 "http://funnypic.life/wp-content/uploads/chp17.png",
 "http://funnypic.life/wp-content/uploads/chp18.png",
-"http://funnypic.life/wp-content/uploads/chp19.png",
+
 "http://funnypic.life/wp-content/uploads/chp20.png",
 "http://funnypic.life/wp-content/uploads/chp21.png",
 "http://funnypic.life/wp-content/uploads/chp22.png"
