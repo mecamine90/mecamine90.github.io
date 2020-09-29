@@ -1,13 +1,52 @@
+
 {
-  "apps": [
-    {
-      "appname": "Christmas Photo Frames",
-      "appicon": "https://lh3.googleusercontent.com/XdOhiqWMIC_Lc3mqsXO16zOmMlMvB17ISyi6aghc6W25Xb-R4yG_cJuCldNWMLuqcYU=s180",
-      "appurl": "https://play.google.com/store/apps/details?id=com.riotgames.legendsofruneterra"
+  
+  "apps":
+  [
+   { "appname":"Christmas Photo Frames Editor",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/christamas_photo_frames.webp",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.christamasphotoframes&hl=en"
+
+    },
+
+    { "appname":"New Year Photo Frames Editor 2020",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/newyearphotoframes.webp",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.newyearphotoframes&hl=en"
+
+    },
+    {"appname":"Easy C Programming",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/easy_c.png",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.cprogramingapp&hl=en"
+
+    },
+
+    {"appname":"Birthday Photo Frames",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/birthdayphotoframes.webp",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.birthdayphotoframes&hl=en"
+
+    },
+    { "appname":"Birthday Photo Frames Editor",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/birthdayphotoframes.webp",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.birthdayphotoframeseditor&hl=en"
+
+    },
+    { "appname":"Lord Ganesh Photo Frames",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/ganesh_photo_frames.png",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.lordganeshaphotoframes&hl=en"
+
     }
   ]
+
 }
-
-
-
-
