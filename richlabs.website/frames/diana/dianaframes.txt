@@ -1,0 +1,33 @@
+﻿{
+  "portrait":[
+"http://funnypic.life/wp-content/uploads/DP1.png",
+"http://funnypic.life/wp-content/uploads/DP2.png",
+"http://funnypic.life/wp-content/uploads/DP3.png",
+"http://funnypic.life/wp-content/uploads/DP4.png",
+"http://funnypic.life/wp-content/uploads/DP5.png",
+"http://funnypic.life/wp-content/uploads/DP7.png",
+"http://funnypic.life/wp-content/uploads/DP8.png",
+"http://funnypic.life/wp-content/uploads/DP9.png",
+"http://funnypic.life/wp-content/uploads/DP10.png",
+"http://funnypic.life/wp-content/uploads/DP11.png"
+    ],
+  "landscape":[
+"http://funnypic.life/wp-content/uploads/DL1.png",
+"http://funnypic.life/wp-content/uploads/DL2.png",
+"http://funnypic.life/wp-content/uploads/DL3.png",
+"http://funnypic.life/wp-content/uploads/DL4.png",
+"http://funnypic.life/wp-content/uploads/DL5.png",
+"http://funnypic.life/wp-content/uploads/DL6.png",
+"http://funnypic.life/wp-content/uploads/DL7.png",
+"http://funnypic.life/wp-content/uploads/DL8.png",
+"http://funnypic.life/wp-content/uploads/DL9.png",
+"http://funnypic.life/wp-content/uploads/DL10.png",
+"http://funnypic.life/wp-content/uploads/DL11.png",
+"http://funnypic.life/wp-content/uploads/DL12.png",
+"http://funnypic.life/wp-content/uploads/DL13.png",
+"http://funnypic.life/wp-content/uploads/DL14.png",
+"http://funnypic.life/wp-content/uploads/DL15.png",
+"http://funnypic.life/wp-content/uploads/DL16.png"
+    ]
+}
+© 2019 GitHub,
