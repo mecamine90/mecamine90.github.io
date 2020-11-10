@@ -47,7 +47,8 @@
 "http://funnypic.life/wp-content/uploads/chl18.png",
 "http://funnypic.life/wp-content/uploads/chl19.png",
 "http://funnypic.life/wp-content/uploads/chl20.png",
-"http://funnypic.life/wp-content/uploads/chl21.png"
+"http://funnypic.life/wp-content/uploads/chl21.png",
+"http://funnypic.life/wp-content/uploads/chl22.png"
 
     ]
 }
