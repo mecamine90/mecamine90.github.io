@@ -12,6 +12,7 @@
 "http://funnypic.life/wp-content/uploads/vp9.png"
     ],
   "landscape":[
+"http://funnypic.life/wp-content/uploads/vl18.png",
 "http://funnypic.life/wp-content/uploads/vl1.png",
 "http://funnypic.life/wp-content/uploads/vl2.png",
 "http://funnypic.life/wp-content/uploads/vl3.png",
