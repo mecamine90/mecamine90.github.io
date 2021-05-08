@@ -1,0 +1,56 @@
+
+
+
+{
+  "portrait":[
+"http://funnypic.life/wp-content/uploads/chp1.png",
+"http://funnypic.life/wp-content/uploads/chp2.png",
+"http://funnypic.life/wp-content/uploads/chp3.png",
+"http://funnypic.life/wp-content/uploads/chp4.png",
+"http://funnypic.life/wp-content/uploads/chp5.png",
+"http://funnypic.life/wp-content/uploads/chp6.png",
+"http://funnypic.life/wp-content/uploads/chp7.png",
+"http://funnypic.life/wp-content/uploads/chp8.png",
+"http://funnypic.life/wp-content/uploads/chp9.png",
+"http://funnypic.life/wp-content/uploads/chp10.png",
+"http://funnypic.life/wp-content/uploads/chp11.png",
+"http://funnypic.life/wp-content/uploads/chp12.png",
+"http://funnypic.life/wp-content/uploads/chp13.png",
+"http://funnypic.life/wp-content/uploads/chp14.png",
+"http://funnypic.life/wp-content/uploads/chp15.png",
+"http://funnypic.life/wp-content/uploads/chp16.png",
+"http://funnypic.life/wp-content/uploads/chp17.png",
+"http://funnypic.life/wp-content/uploads/chp18.png",
+"http://funnypic.life/wp-content/uploads/chp20.png",
+"http://funnypic.life/wp-content/uploads/chp21.png",
+"http://funnypic.life/wp-content/uploads/chp22.png",
+"http://funnypic.life/wp-content/uploads/chp23.png"
+    ],
+  "landscape":[
+"http://funnypic.life/wp-content/uploads/chl1.png",
+"http://funnypic.life/wp-content/uploads/chl2.png",
+"http://funnypic.life/wp-content/uploads/chl3.png",
+"http://funnypic.life/wp-content/uploads/chl4.png",
+"http://funnypic.life/wp-content/uploads/chl5.png",
+"http://funnypic.life/wp-content/uploads/chl6.png",
+"http://funnypic.life/wp-content/uploads/chl7.png",
+"http://funnypic.life/wp-content/uploads/chl8.png",
+"http://funnypic.life/wp-content/uploads/chl9.png",
+"http://funnypic.life/wp-content/uploads/chl10.png",
+"http://funnypic.life/wp-content/uploads/chl11.png",
+"http://funnypic.life/wp-content/uploads/chl12.png",
+"http://funnypic.life/wp-content/uploads/chl13.png",
+"http://funnypic.life/wp-content/uploads/chl14.png",
+"http://funnypic.life/wp-content/uploads/chl15.png",
+"http://funnypic.life/wp-content/uploads/chl16.png",
+"http://funnypic.life/wp-content/uploads/chl17.png",
+"http://funnypic.life/wp-content/uploads/chl18.png",
+"http://funnypic.life/wp-content/uploads/chl19.png",
+"http://funnypic.life/wp-content/uploads/chl20.png",
+"http://funnypic.life/wp-content/uploads/chl21.png",
+"http://funnypic.life/wp-content/uploads/chl22.png",
+"http://funnypic.life/wp-content/uploads/vl18.png"
+
+    ]
+}
+© 2019 GitHub,
