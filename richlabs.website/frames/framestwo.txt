@@ -25,7 +25,6 @@
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/funl2.png",
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/funl3.png",
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/funl4.png",
-"https://raw.githubusercontent.com/mecamine90/app-frames/master/funl5.png",
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/funl6.png",
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/funl7.png",
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/funl8.png",
