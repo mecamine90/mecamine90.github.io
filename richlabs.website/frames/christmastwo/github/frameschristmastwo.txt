@@ -19,7 +19,7 @@
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/cchp10.png",
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/chp11.png",
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/cchp11.png",
-"https://raw.githubusercontent.com/mecamine90/app-frames/master/chp2.png"
+"https://raw.githubusercontent.com/mecamine90/app-frames/master/chp2.png",
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/cchp12.png",
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/cchp13.png",
 "https://raw.githubusercontent.com/mecamine90/app-frames/master/chp8.png",
